@@ -1,4 +1,3 @@
-import { Provider } from "react-redux";
 import CakeContainer from "./components/CakeContainer";
 import "./styles.css";
 
